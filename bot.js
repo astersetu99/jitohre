@@ -11,28 +11,28 @@ bot.on('message', message =>{
 
     if(message.author.id != "598499537023270912" && message.channel.id === "595636121124208640"){
         if(msg.startsWith('.', 0)){
-            if(msg === prefix + "c1" && message.channel.id === "595640668924280848"){
+            if(msg === prefix + "j1" && message.channel.id === "595636121124208640"){
                 message.channel.send('========QUESTION NO. 1========') // Sends a message to the channel, with the content
             }
-                if(msg === prefix + "c2" && message.channel.id === "595640668924280848"){
+                if(msg === prefix + "j2" && message.channel.id === "595636121124208640"){
                 message.channel.send('========QUESTION NO. 2========') // Sends a message to the channel, with the content
                 }
-             if(msg === prefix + "c3" && message.channel.id === "595640668924280848"){
+             if(msg === prefix + "j3" && message.channel.id === "595636121124208640"){
                 message.channel.send('========QUESTION NO. 3========') // Sends a message to the channel, with the content
              }
-            if(msg === prefix + "c4" && message.channel.id === "595640668924280848"){
+            if(msg === prefix + "j4" && message.channel.id === "595636121124208640"){
                 message.channel.send('========QUESTION NO. 4========') // Sends a message to the channel, with the content
             }
-            if(msg === prefix + "c5" && message.channel.id === "595640668924280848"){
+            if(msg === prefix + "j5" && message.channel.id === "595636121124208640"){
                 message.channel.send('========QUESTION NO. 5========') // Sends a message to the channel, with the content
             }
-            if(msg === prefix + "c6" && message.channel.id === "595640668924280848"){
+            if(msg === prefix + "j6" && message.channel.id === "595636121124208640"){
                 message.channel.send('========QUESTION NO. 6========') // Sends a message to the channel, with the content
             }
-                if(msg === prefix + "c7" && message.channel.id === "595640668924280848"){
+                if(msg === prefix + "j7" && message.channel.id === "595636121124208640"){
                 message.channel.send('========QUESTION NO. 7========') // Sends a message to the channel, with the content
             }
-                if(msg === prefix + "c8" && message.channel.id === "595640668924280848"){
+                if(msg === prefix + "j8" && message.channel.id === "595636121124208640"){
                 message.channel.send('========QUESTION NO. 8========') // Sends a message to the channel, with the content
             }
                 if(msg === prefix + "c9" && message.channel.id === "595640668924280848"){
